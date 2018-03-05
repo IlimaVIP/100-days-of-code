@@ -12,7 +12,9 @@
 
 **Today's Progress**: Reading about Closures JavaScript.
 
-**Thoughts:** 
+**Thoughts:** Closures are actually powerful knowledge for my near future, hopefully it will stick with me for the rest of my life.
+**Link(s) for docs**
+1. [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 
 ### Day 4: March 4, 2018
