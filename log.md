@@ -1,10 +1,27 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: March 8, 2018
+
+**Today's Progress**: Reading about Closures JavaScript.
+
+**Thoughts:** Still trying to find out more.
+
+
+
+### Day 7: March 7, 2018
+
+**Today's Progress**: Reading about Closures JavaScript.
+
+**Thoughts:** Still trying to find out more.
+
+
+
 ### Day 6: March 6, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Reading about Closures JavaScript.
 
-**Thoughts:** 
+**Thoughts:** Still trying to find out more.
 
 
 
