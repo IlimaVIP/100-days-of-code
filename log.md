@@ -3,10 +3,12 @@
 
 ### Day 8: March 8, 2018
 
-**Today's Progress**: Reading about Closures JavaScript.
+**Today's Progress**: Learned about Closures JavaScript and passed the challenge about the Closures.
 
-**Thoughts:** Still trying to find out more.
+**Thoughts:** It took me two days to understand what I was doing wrong)) but I’m glad with the knowledge I gained from my own mistakes and I could pass the challenge.
 
+**Link(s) to work**
+1. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
 
 
 ### Day 7: March 7, 2018
