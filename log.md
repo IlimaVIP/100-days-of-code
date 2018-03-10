@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 9: March 9, 2018
+
+**Today's Progress**: Learning about the Regular Expressions.
+
+**Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. So really excited about it.
+
+
+
 ### Day 8: March 8, 2018
 
 **Today's Progress**: Learned about Closures JavaScript and passed the challenge about the Closures.
