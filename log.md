@@ -2,12 +2,15 @@
 
 
 
-### Day 9-14: March 9-14, 2018
+### Day 9-15: March 9-15, 2018
 
 **Today's Progress**: Learning about the Regular Expressions.
 
 **Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. So really excited about it and want to learn for at least a week about it. Slowly but surely...
 
+**Link(s) for docs**
+1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1)
+2. [regexone](https://regexone.com/lesson/introduction_abcs)
 
 
 ### Day 8: March 8, 2018
