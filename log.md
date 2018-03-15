@@ -6,7 +6,7 @@
 
 **Today's Progress**: Learning about the Regular Expressions.
 
-**Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. So really excited about it and want to learn for at least a week about it. Slowly but surely...
+**Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. Really excited and want to learn for at least a week about it. Slowly but surely...
 
 **Link(s) for docs**
 1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1)
