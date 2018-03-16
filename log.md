@@ -9,9 +9,20 @@
 **Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. Really excited and want to learn for at least a week about it. Slowly but surely...
 
 **Link(s) for docs**
-1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1)
+1. [codecademy](https://www.codecademy.com/courses/javascript-i1ntermediate-en-NJ7Lr/0/1)
 2. [regexone-basics](https://regexone.com/lesson/introduction_abcs)
 3. [regexone-matching_decimal_numbers](https://regexone.com/problem/matching_decimal_numbers)
+4. [regexone-matching_phone_numbers](https://regexone.com/problem/matching_phone_numbers?) 
+```javascript
+//my solution
+var re = /1?[\s]?\(?(\d{3})\)?\s?-?\d{3}\s?-?\d{4}/;
+```
+5. [regexone-matching_emails](https://regexone.com/problem/matching_emails?)
+6. [regexone-matching_html](https://regexone.com/problem/matching_html)
+7. [regexone-matching_filenames](https://regexone.com/problem/matching_filenames)
+8. [regexone-trimming_whitespace](https://regexone.com/problem/trimming_whitespace)
+9. [regexone-extracting_log_data](https://regexone.com/problem/extracting_log_data)
+10. [regexone-extracting_url_data](https://regexone.com/problem/extracting_url_data)
 
 
 ### Day 8: March 8, 2018
