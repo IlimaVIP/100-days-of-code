@@ -10,7 +10,8 @@
 
 **Link(s) for docs**
 1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1)
-2. [regexone](https://regexone.com/lesson/introduction_abcs)
+2. [regexone-basics](https://regexone.com/lesson/introduction_abcs)
+3. [regexone-matching_decimal_numbers](https://regexone.com/problem/matching_decimal_numbers)
 
 
 ### Day 8: March 8, 2018
