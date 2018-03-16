@@ -8,7 +8,7 @@
 
 **Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. Really excited and want to learn for at least a week about it. Slowly but surely...
 
-**Link(s) for docs**
+**Link(s) of works**
 1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1) (Completed 10 challenges :+1:)
 2. [regexone-basics](https://regexone.com/lesson/introduction_abcs)
 3. [regexone-matching_decimal_numbers](https://regexone.com/problem/matching_decimal_numbers)
@@ -26,6 +26,15 @@ var phone_numbers = /1?[\s]?\(?(\d{3})\)?\s?-?\d{3}\s?-?\d{4}/;
 ```javascript
 //my solution
 var url_data = /(\w+)://([\w]*(.*com)?):?(\d+)?/;
+```
+11. [FCC-validate-us-telephone-numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers) 🙌 
+```javascript
+function telephoneCheck(str) {
+  // My solution 
+  var re = new RegExp(/^1?[\s-]?(\((\d{3})\)|(\d{3}))[\s-]?\d{3}[\s-]?\d{4}$/,'g');
+  return re.test(str);
+}
+telephoneCheck("1 555-555-5555");
 ```
 
 
