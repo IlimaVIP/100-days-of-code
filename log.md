@@ -15,7 +15,7 @@
 4. [regexone-matching_phone_numbers](https://regexone.com/problem/matching_phone_numbers?) 
 ```javascript
 //my solution
-var re = /1?[\s]?\(?(\d{3})\)?\s?-?\d{3}\s?-?\d{4}/;
+var phone_numbers = /1?[\s]?\(?(\d{3})\)?\s?-?\d{3}\s?-?\d{4}/;
 ```
 5. [regexone-matching_emails](https://regexone.com/problem/matching_emails?)
 6. [regexone-matching_html](https://regexone.com/problem/matching_html)
@@ -23,6 +23,10 @@ var re = /1?[\s]?\(?(\d{3})\)?\s?-?\d{3}\s?-?\d{4}/;
 8. [regexone-trimming_whitespace](https://regexone.com/problem/trimming_whitespace)
 9. [regexone-extracting_log_data](https://regexone.com/problem/extracting_log_data)
 10. [regexone-extracting_url_data](https://regexone.com/problem/extracting_url_data)
+```javascript
+//my solution
+var url_data = /(\w+)://([\w]*(.*com)?):?(\d+)?/;
+```
 
 
 ### Day 8: March 8, 2018
