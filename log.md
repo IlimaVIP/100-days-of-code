@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: March 16, 2018
+
+**Today's Progress**: .
+
+**Thoughts:** 
+
+**Link(s) to work**
+1. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+
 
 ### Day 9-15: March 9-15, 2018
 
