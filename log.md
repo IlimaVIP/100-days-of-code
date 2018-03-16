@@ -9,7 +9,7 @@
 **Thoughts:** RegExp are a big help for finding the data, in the future I want to be a full stack developer. Really excited and want to learn for at least a week about it. Slowly but surely...
 
 **Link(s) for docs**
-1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1) Completed 10 challenges :+1:
+1. [codecademy](https://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1) (Completed 10 challenges :+1:)
 2. [regexone-basics](https://regexone.com/lesson/introduction_abcs)
 3. [regexone-matching_decimal_numbers](https://regexone.com/problem/matching_decimal_numbers)
 4. [regexone-matching_phone_numbers](https://regexone.com/problem/matching_phone_numbers?) 
