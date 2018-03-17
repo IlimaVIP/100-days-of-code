@@ -3,12 +3,12 @@
 
 ### Day 16: March 16, 2018
 
-**Today's Progress**: .
+**Today's Progress**: Reviewing the Objects JS and learning a bit more.
 
-**Thoughts:** 
+**Thoughts:** Need to refresh my memory.
 
 **Link(s) to work**
-1. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+1. [manipulating-complex-objects](https://www.freecodecamp.org/challenges/manipulating-complex-objects)
 
 
 ### Day 9-15: March 9-15, 2018
