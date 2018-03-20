@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 17-19: March 17-19, 2018
+
+**Today's Progress**: Reviewing the Objects JS and learning a bit more.
+
+**Thoughts:** Need to refresh my memory.
+
+**Link(s) to work**
+1. [manipulating-complex-objects](https://www.freecodecamp.org/challenges/manipulating-complex-objects)
+
+
 ### Day 16: March 16, 2018
 
 **Today's Progress**: Reviewing the Objects JS and learning a bit more.
