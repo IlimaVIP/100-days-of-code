@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 120: March 20, 2018
+
+**Today's Progress**: Passed Record Collection Challenge on FCC 🙌
+
+**Thoughts:** So happy that it was easier than I thought.
+
+**Link(s) to work**
+1. [record-collection](https://www.freecodecamp.org/challenges/record-collection)
+
 ### Day 17-19: March 17-19, 2018
 
 **Today's Progress**: Reviewing the Objects JS and learning a bit more.
