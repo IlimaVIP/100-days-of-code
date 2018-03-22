@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 21: March 21, 2018
 
-### Day 120: March 20, 2018
+**Today's Progress**: Learning more about reduce JS
+
+**Thoughts:** I've been using reduce a lot previously, but right now I need to learn more for FCC challenges.
+
+
+### Day 20: March 20, 2018
 
 **Today's Progress**: Passed Record Collection Challenge on FCC 🙌
 
