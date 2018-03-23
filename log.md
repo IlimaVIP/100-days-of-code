@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+
+
+## Day 23: March 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+## Day 22: March 22, 2018
+
+**Today's Progress**: Learning more about reduce JS
+
+**Thoughts:** Continued learning more about reduce JS.
+**Link(s) to docs**
+1. [array-prototype-reduce](https://forum.freecodecamp.org/t/using-array-prototype-reduce-to-reduce-conceptual-boilerplate-for-problems-on-arrays/14687)
+
+
 ## Day 21: March 21, 2018
 
 **Today's Progress**: Learning more about reduce JS
