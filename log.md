@@ -4,15 +4,17 @@
 
 ## Day 23: March 23, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Passed the Challenge at FCC symmetric-difference ✅
 
-**Thoughts:** 
+**Thoughts:** It took me while, but a learned a lot!
 
+**Link(s) to works**
+1. [symmetric-difference](https://www.freecodecamp.org/challenges/symmetric-difference)
 
 
 ## Day 22: March 22, 2018
 
-**Today's Progress**: Learning more about reduce JS
+**Today's Progress**: Learning more about reduce JS.
 
 **Thoughts:** Continued learning more about reduce JS.
 **Link(s) to docs**
