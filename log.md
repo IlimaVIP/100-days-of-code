@@ -2,6 +2,17 @@
 
 
 
+## Day 24: March 24, 2018
+
+**Today's Progress**: Learning about Set JS
+
+**Thoughts:** The Set object lets you store unique values of any type, whether primitive values or object references. It's  new for me. ☺️
+
+**Link(s) to works**
+1. [Global_Objects/Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+
+
+
 ## Day 23: March 23, 2018
 
 **Today's Progress**: Passed the Challenge at FCC symmetric-difference ✅
