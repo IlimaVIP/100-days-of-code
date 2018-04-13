@@ -7,7 +7,7 @@
 **Link(s) to work and sources**
 1. [no-repeats-please](https://www.freecodecamp.org/challenges/no-repeats-please)
 2. [YouTube_recursion_c++](https://www.youtube.com/watch?v=9vIyTn7ayac)
-3. [YouTube_permutation_c++](https://www.youtube.com/watch?v=9vIyTn7ayac)
+3. [YouTube_permutation_c++](https://www.youtube.com/watch?v=78t_yHuGg-0)
 
 ## I was studying everyday, even though I didn’t tweet the #100DaysOfCode, but since there’s a big gap between me posting last time, I’ll start this challenge from day one ☝️ again. Don’t want to break the rules 🤓
 
