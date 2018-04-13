@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 1: Apr 13, 2018
+**Today's Progress**: Passed the "no repeats please" Advanced algorithm scripting
+**Thoughts:** I’m back 😉 Day one ☝️ After few days of frustration and scoping issues on #freeCodeCamp “No repeats please” challenge, I finally just passed the challenge 🤪)) This problem was about the permutations.
+**Link(s) to work and sources**
+1. [no-repeats-please](https://www.freecodecamp.org/challenges/no-repeats-please)
+2. [YouTube_recursion_c++](https://www.youtube.com/watch?v=9vIyTn7ayac)
+3. [YouTube_permutation_c++](https://www.youtube.com/watch?v=9vIyTn7ayac)
+
+## I was studying everyday, even though I didn’t tweet the #100DaysOfCode, but since there’s a big gap between me posting last time, I’ll start this challenge from day one ☝️ again. Don’t want to break the rules 🤓
 
 ## Day 24: March 24, 2018
 
@@ -10,7 +19,6 @@
 
 **Link(s) to works**
 1. [Global_Objects/Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
-
 
 
 ## Day 23: March 23, 2018
