@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log
 
 
+## Day 3: Apr 15, 2018
+**Today's Progress**: Learning Details of the object model.
+**Thoughts:** Details of the object model. 
+
+## Day 2: Apr 14, 2018
+**Today's Progress**: Learning Closures again
+**Thoughts:** Best time to refresh my memory and learn deeper about Closures JS. 
+
 ## Day 1: Apr 13, 2018
 **Today's Progress**: Passed the "no repeats please" Advanced algorithm scripting
-**Thoughts:** I’m back 😉 Day one ☝️ After few days of frustration and scoping issues on #freeCodeCamp “No repeats please” challenge, I finally just passed the challenge 🤪)) This problem was about the permutations.
+**Thoughts:** I’m back 😉 Day one ☝️ After few days of frustration and scoping issues on #freeCodeCamp “No repeats please” challenge, finally just passed the challenge 🤪)) This problem was about the permutations.
 **Link(s) to work and sources**
 1. [no-repeats-please](https://www.freecodecamp.org/challenges/no-repeats-please)
 2. [YouTube_recursion_c++](https://www.youtube.com/watch?v=9vIyTn7ayac)
