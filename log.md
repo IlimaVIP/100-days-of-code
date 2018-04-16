@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+## Day 4: Apr 16, 2018
+**Today's Progress**: Passed FreeCodeCamp's Make a Person Algorithm challenge 🙌
+**Thoughts:** All of this two last days of learning Details of the object model and Closures did help me a lot with this challenge.
+**Link(s) to works**
+1. [make-a-person](https://www.freecodecamp.org/challenges/make-a-person)
+
 ## Day 3: Apr 15, 2018
 **Today's Progress**: Learning Details of the object model.
 **Thoughts:** Details of the object model. 
